@@ -1,0 +1,21 @@
+facts
+    patients("Patient1", "Doctor1", "Date1", "Diagnosis1").
+    patients("Patient2", "Doctor1", "Date1", "Diagnosis2").
+    patients("Patient3", "Doctor2", "Date2", "Diagnosis3").
+    patients("Patient4", "Doctor2", "Date2", "Diagnosis4").
+    patients("Patient5", "Doctor3", "Date3", "Diagnosis1").
+    patients("Patient6", "Doctor3", "Date3", "Diagnosis2").
+    patients("Patient7", "Doctor3", "Date3", "Diagnosis3").
+    patients("Patient8", "Doctor3", "Date3", "Diagnosis4").
+    patients("Patient9", "Doctor4", "Date4", "Diagnosis1").
+    patients("Patient10", "Doctor4", "Date4", "Diagnosis2").
+    patients("Patient11", "Doctor4", "Date4", "Diagnosis3").
+    patients("Patient12", "Doctor4", "Date4", "Diagnosis4").
+    patients("Patient13", "Doctor4", "Date4", "Diagnosis1").
+    patients("Patient14", "Doctor4", "Date4", "Diagnosis2").
+    patients("Patient15", "Doctor4", "Date4", "Diagnosis3").
+
+    doctors("Doctor1").
+    doctors("Doctor2").
+    doctors("Doctor3").
+    doctors("Doctor4").
